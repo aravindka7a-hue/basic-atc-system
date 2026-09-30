@@ -131,7 +131,3 @@ These are bugs in the current code that are worth fixing:
 - Loop back to the main menu instead of exiting after one request
 - Give each airport different rules (runway length, wind limits) instead of identical ones
 - Add unit tests for `landing()` and `takeoff()`
-
-## License
-
-Add a license of your choice (for example MIT) before sharing publicly.
